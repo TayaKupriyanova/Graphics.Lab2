@@ -1,0 +1,31 @@
+C:\Users\User\Desktop\Леша\Копия флешки\7 семестр\Компьютерная графика\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\User\Desktop\Леша\Копия флешки\7 семестр\Компьютерная графика\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\User\Desktop\Леша\Копия флешки\7 семестр\Компьютерная графика\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\User\Desktop\Леша\Копия флешки\7 семестр\Компьютерная графика\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Леша\Копия флешки\7 семестр\Компьютерная графика\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\User\Desktop\Леша\Копия флешки\7 семестр\Компьютерная графика\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\User\Desktop\Леша\Копия флешки\7 семестр\Компьютерная графика\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Леша\Копия флешки\7 семестр\Компьютерная графика\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Леша\Копия флешки\7 семестр\Компьютерная графика\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\User\Desktop\Леша\Копия флешки\7 семестр\Компьютерная графика\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\zhoom\OneDrive\Рабочий стол\UNIX\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\zhoom\OneDrive\Рабочий стол\UNIX\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\zhoom\OneDrive\Рабочий стол\UNIX\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\zhoom\OneDrive\Рабочий стол\UNIX\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\UNIX\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\zhoom\OneDrive\Рабочий стол\UNIX\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\zhoom\OneDrive\Рабочий стол\UNIX\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\UNIX\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\UNIX\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\zhoom\OneDrive\Рабочий стол\UNIX\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Тая\Downloads\labz\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Тая\Downloads\labz\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Тая\Downloads\labz\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Тая\Downloads\labz\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\Тая\Downloads\labz\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Тая\Downloads\labz\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\Тая\Downloads\labz\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\Тая\Downloads\labz\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\Тая\Downloads\labz\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Тая\Downloads\labz\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Тая\Downloads\labz\Lab2\Lab2\obj\Debug\Lab2.pdb
